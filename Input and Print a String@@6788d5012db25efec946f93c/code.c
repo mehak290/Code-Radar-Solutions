@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
-    char a[100];
-    scanf("%s", &a);
-    printf("You entered: %s",a);
+    char abc[100];
+    scanf("%s", &abc);
+    printf("You entered: %s",abc);
     fgets();
 }
