@@ -2,7 +2,8 @@
 int main(){
     int a,b;
     scanf("%d %d", &a, &b);
-    if(a>!0){printf("True");
+    if(a>!0){printf("False");
     }
-    else{printf("False");}
+    else if(a==1){printf("False");}
+    else{printf("True");}
     }
