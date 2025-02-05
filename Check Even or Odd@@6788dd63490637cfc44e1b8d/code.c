@@ -2,5 +2,5 @@
 int main() {int a;
     scanf("%d",&a);
     if (a%==0){printF("Even");}
-    else{printf("Odd");}   
+    else(){printf("Odd");}   
 }
