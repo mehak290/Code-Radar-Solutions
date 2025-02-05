@@ -2,6 +2,6 @@
 int main(){
     char ch;
     scanf("%c", ch);
-    if(isupper){printf("Uppercase");}
+    if(isupper(ch)){printf("Uppercase");}
     else{printf("Lowercase");}
 }
